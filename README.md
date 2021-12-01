@@ -13,7 +13,6 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -97,12 +96,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [Example resource 1](https://www.fontawesome.com) - This helped me for social media logos. I really liked this pattern and will use it going forward.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
