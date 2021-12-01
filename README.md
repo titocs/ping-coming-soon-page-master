@@ -46,7 +46,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://titocs.github.io/ping-coming-soon-page-master/)
+- Live Site URL: [Click here!](https://titocs.github.io/ping-coming-soon-page-master/)
 
 ## My process
 
@@ -55,7 +55,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Desktop first workflow
 - [Styled Components](https://fontawesome.com/) - For font styling
 
