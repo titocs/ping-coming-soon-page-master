@@ -46,7 +46,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://titocs.github.io/ping-coming-soon-page-master/)
 
 ## My process
 
@@ -56,10 +56,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Desktop first workflow
+- [Styled Components](https://fontawesome.com/) - For font styling
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
@@ -70,16 +68,18 @@ Use this section to recap over some of your major learnings while working throug
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<input type="text" id="masukan" placeholder="Your email address...">
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+#ikon { /* Change svg color */
+    fill: var(--Blue);
 }
 ```
 ```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+function ValidateEmail(mail){
+    if(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(mail))
+        return (true)
+    return (false)
 }
 ```
 
@@ -95,8 +95,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 1](https://www.fontawesome.com) - This helped me for social media logos. I really liked this pattern and will use it going forward.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
