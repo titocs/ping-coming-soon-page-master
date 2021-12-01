@@ -6,7 +6,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshot](https://drive.google.com/file/d/1L4wAzL1ZEdt4z9xuAi9r9HJRacEYg1xl/view?usp=sharing)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
